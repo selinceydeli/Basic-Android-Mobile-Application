@@ -1,4 +1,4 @@
-# Basic-Android-Mobile-Application
+# Basic_Android_Mobile_Application
 Goal: Designing and implementing a topic-based News API Android Mobile Application enabling user interaction by posting comments about news
 
 Used Android Studio IDE and Java programming language for Android app development
